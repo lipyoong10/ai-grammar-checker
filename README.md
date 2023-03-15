@@ -19,10 +19,13 @@ Current live site: https://aigrammarchecker.lippykong.site/ <br>
 
 <h1>Solution Architecture</h1>
 The following is the AWS reference architecture for how this website is being hosted.<br>
+
 ![AI Grammar Checker Cloud Architecture](https://github.com/lipyoong10/ai-grammar-checker/blob/main/aigrammarchecker.drawio.png)
 
 <b>Note: This does not adhere to AWS best practices as it's meant for author's learning purposes in self-hosting a web application, and testing out with OpenAI APIs</b>
 
 
 <h1>Web Interface & Demo</h1>
+The user interface below is what the user will see after successful authentication.<br>
+
 ![Web User Interface](https://github.com/lipyoong10/ai-grammar-checker/blob/main/FunctionalPage.png)
