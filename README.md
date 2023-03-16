@@ -15,7 +15,8 @@ Do note that the default username and password is "username":"password". Do upda
 
 <h1>Live Demo Site</h1>
 Current live site: https://aigrammarchecker.lippykong.site/ <br>
-<i>Authentication restricted - Screenshot of Interface below</i>
+<s><i>Authentication restricted - Screenshot of Interface below</i></s>
+<i>Authentication temporarily removed</i>
 
 <h1>Solution Architecture</h1>
 The following is the AWS reference architecture for how this website is being hosted.<br>
