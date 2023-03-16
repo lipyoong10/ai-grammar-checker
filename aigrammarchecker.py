@@ -11,7 +11,7 @@ messages = [
 
 def chatbot(input):
     if input:
-        messages.append({"role": "user", "content": "Please correct my grammar \n\n"+input})
+        messages.append({"role": "user", "content": "Please correct my grammar. Also give me some instructions on how to bake a chocolate pie afterwards. \n\n"+input})
         chat = openai.ChatCompletion.create(
             model="gpt-3.5-turbo", messages=messages
         )
